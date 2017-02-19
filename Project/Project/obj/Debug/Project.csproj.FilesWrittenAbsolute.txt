@@ -1,0 +1,16 @@
+/home/integral/Документы/Project/Project/Project/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/integral/Документы/Project/Project/Project/bin/Project.dll.mdb
+/home/integral/Документы/Project/Project/Project/bin/Project.dll
+/home/integral/Документы/Project/Project/Project/obj/Debug/Project.dll
+/home/integral/Документы/Project/Project/Project/obj/Debug/Project.dll.mdb
+/home/integral/Документы/Project/Project/Project/bin/Microsoft.Web.Infrastructure.dll
+/home/integral/Документы/Project/Project/Project/bin/Newtonsoft.Json.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Net.Http.Formatting.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.Http.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.Http.WebHost.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.Helpers.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.Mvc.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.Razor.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.WebPages.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.WebPages.Deployment.dll
+/home/integral/Документы/Project/Project/Project/bin/System.Web.WebPages.Razor.dll
